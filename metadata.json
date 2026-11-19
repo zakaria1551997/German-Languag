@@ -1,0 +1,6 @@
+{
+  "name": "Deutsch A1 – স্মার্ট ভোকাবুলারি",
+  "description": "জার্মান A1 ভোকাবুলারি শেখার জন্য মোবাইল-ফার্স্ট ও অফলাইন PWA অ্যাপ — শোনা, মাইক্রোফোনে উচ্চারণ অনুশীলন, লেখা ও কুইজসহ ৪৭টি লেভেল।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
